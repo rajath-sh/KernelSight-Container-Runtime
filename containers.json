@@ -1,13 +1,1 @@
-{
-  "test1": {
-    "pid": 1655,
-    "command": "sleep 1000",
-    "status": "running"
-  },
-  "test2": {
-    "status": "stopped"
-  },
-  "test3": {
-    "status": "stopped"
-  }
-}
+
