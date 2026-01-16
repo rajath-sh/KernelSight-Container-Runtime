@@ -1,0 +1,13 @@
+# Python
+venv/
+__pycache__/
+*.py[cod]
+
+# Data (We don't want to upload your test results)
+monitoring/*.csv
+
+# Binaries
+runtime/container
+
+# OS Files
+.DS_Store
